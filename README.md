@@ -10,10 +10,10 @@ This project is a simple console-based coffee ordering system where users can se
 - Calculates and displays the total amount of the order.
 - Provides feedback if an ordered item is not available.
 ## Steps to Order
--The program greets the user and displays the menu.
--Enter the name of the item you wish to order.
--If you want to order another item, respond with "Yes" and enter the second item.
--The program calculates and displays the total amount of your order.
+- The program greets the user and displays the menu.
+- Enter the name of the item you wish to order.
+- If you want to order another item, respond with "Yes" and enter the second item.
+- The program calculates and displays the total amount of your order.
 ## Menu
 The menu includes a variety of beverages and food items:
 - **Beverages:**
